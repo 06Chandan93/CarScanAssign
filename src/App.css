@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.recharts-wrapper{
+display:inline-flex;
+}
+
+button.MuiButtonBase-root.MuiIconButton-root {
+    color: white;
+}
